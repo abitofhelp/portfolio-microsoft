@@ -1,3 +1,6 @@
 [submodule "clean"]
 	path = clean
 	url = https://github.com/abitofhelp/clean.git
+[submodule "cs-job-scheduler"]
+	path = cs-job-scheduler
+	url = https://gist.github.com/0e49a626d4d1cbe2550c8f60f317fdc0.git
