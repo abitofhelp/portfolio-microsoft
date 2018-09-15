@@ -4,3 +4,6 @@
 [submodule "cs-job-scheduler"]
 	path = cs-job-scheduler
 	url = https://gist.github.com/0e49a626d4d1cbe2550c8f60f317fdc0.git
+[submodule "cs-fast-file-scanner"]
+	path = cs-fast-file-scanner
+	url = https://gist.github.com/0794554c84df09bb76445cf0e8c0a83e.git
