@@ -1,0 +1,3 @@
+[submodule "clean"]
+	path = clean
+	url = https://github.com/abitofhelp/clean.git
